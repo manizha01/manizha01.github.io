@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
-date: 2014-04-30
+title: "Manizha, Horrible Cop, Launches Site"
+date: 2020-08-06
 ---
 
 Well. Finally got around to putting this old website together.
