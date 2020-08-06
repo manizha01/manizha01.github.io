@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Manizha, io, Launches Site"
+title: "Manizha, GitHub.io"
 date: 2020-08-06
 ---
 
