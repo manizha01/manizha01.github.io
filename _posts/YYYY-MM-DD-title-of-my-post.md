@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Manizha, Horrible Cop, Launches Site"
+title: "Manizha, io, Launches Site"
 date: 2020-08-06
 ---
 
