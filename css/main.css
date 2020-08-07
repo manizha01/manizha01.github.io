@@ -21,8 +21,8 @@ body {
   clear: both;
 }
 
-.profile-img
-{   float:left;
+.profile-img {
+    float:left;
     margin-left:20px;
     border-radius: 100%;
     width: 11rem;
