@@ -2,6 +2,34 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+
+/* my code*/
+* {
+    box-sizing: border-box;
+}
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  /*height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.profile-img
+{   float:left;
+    margin-left:20px;
+    border-radius: 100%;
+    width: 11rem;
+    border: 1.5px solid #000;
+}
+
+/*.....*/
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
