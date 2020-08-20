@@ -1,5 +1,4 @@
 name: manizha.io
-markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 
 
